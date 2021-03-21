@@ -1,0 +1,16 @@
+# Site settings
+title: Sai Vineeth Portfolio
+description: Sai Vineeth's professional portfolio site
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Sai Vineeth
+user_title: 
+user_job_title: Exploring career opportunities in Data Science | Data Analytics | Business Intelligence
+email: kandappareddigari.s@northeastern.edu
+twitter_username: centerback_20
+github_username:  sksvineeth
+linkedin_username: sai-vineeth-k-r-b1802499
+
+exclude: ['package.json', 'src' , 'node_modules']
